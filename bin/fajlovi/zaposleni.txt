@@ -1,0 +1,2 @@
+Aleksandar|Vasic|0311996772034|Gogoljeva 21|2|90000.0|vasic|12345|666
+Lazar|Djeric|1234567894321|Zeleznicka|1|50000.0|lazar|12345|999

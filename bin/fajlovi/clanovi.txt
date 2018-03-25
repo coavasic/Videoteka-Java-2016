@@ -1,0 +1,4 @@
+Tanja|Magazin|1234567890123|Beograd|1|501|1
+Nadja|DImitrijevski|4564564564561|Zarkovo|1|502|1
+Dimitrije|Savic|7897897897899|Vozdovac|2|503|1
+Vukasin|Bogdanovic|1231231232311|Zemun|2|504|1

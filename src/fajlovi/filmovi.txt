@@ -1,0 +1,4 @@
+Film SRB|Film ORG|2016|Naucna fantastika|Ime|Prezime|Opis blablabla|100
+Film1 SRB|Film1 ORG|2016|Horor|Ime1|Prezime1|Opis blablabla|1234
+Film2 SRB|Film2 ORG|2003|Triler|Aleksandar|Vasic|Opis blablabla|120
+Film3 SRB|Film3 ORG|2011|Komedija|Ja|Ti|opis neki|123

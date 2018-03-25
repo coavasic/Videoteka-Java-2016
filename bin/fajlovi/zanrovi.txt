@@ -1,0 +1,7 @@
+Z1|Horor
+Z2|Triler
+Z3|Akcija
+Z4|Komedija
+Z5|Naucna fantastika
+Z6|Avantura
+Z7|Drama
